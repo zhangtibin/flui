@@ -96,6 +96,7 @@ flutter:
     - assets/sheet_dark.png
     - assets/list_dark.png
     - assets/iron_man.png
+    - assets/dev.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
